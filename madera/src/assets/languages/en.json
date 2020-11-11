@@ -1,0 +1,12 @@
+{
+    "button": {
+      "connection": "Log In",
+      "offline": "Offline",
+      "validate": "Validate"
+    },
+    "input": {
+      "login": "Login",
+      "password": "Password"
+    }
+  }
+  

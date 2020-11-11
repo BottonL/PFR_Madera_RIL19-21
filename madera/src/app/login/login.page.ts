@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { TranslateConfigService } from '../services/translate-config.service';
 
 @Component({
   selector: 'app-login',
@@ -7,7 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LoginPage implements OnInit {
 
-  constructor() { }
+  selectedLanguage:string;
+
+  constructor(private translateConfigService: TranslateConfigService){
+    this.selectedLanguage = this.translateConfigService.getDefaultLanguage();
+  }
 
   ngOnInit() {
   }

@@ -1,0 +1,12 @@
+{
+    "button" : {
+      "connection": "Connexion",
+      "offline": "Hors-ligne",
+      "validate": "Valider"
+    },
+    "input" : {
+      "login" : "Identifiant",
+      "password" : "Mot de passe"
+    }
+  }
+  

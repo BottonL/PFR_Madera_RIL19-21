@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TranslateConfigService } from '../services/translate-config.service';
 
 @Component({
   selector: 'app-home',
@@ -7,6 +8,10 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  selectedLanguage:string;
+
+  constructor(private translateConfigService: TranslateConfigService){
+    this.selectedLanguage = this.translateConfigService.getDefaultLanguage();
+  }
 
 }
