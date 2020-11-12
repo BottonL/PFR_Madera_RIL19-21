@@ -1,0 +1,10 @@
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\bin\Debug\netcoreapp3.1\maderaAPI.exe
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\maderaAPI.csprojAssemblyReference.cache
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\staticwebassets\maderaAPI.StaticWebAssets.Manifest.cache
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\staticwebassets\maderaAPI.StaticWebAssets.xml
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\maderaAPI.AssemblyInfoInputs.cache
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\maderaAPI.AssemblyInfo.cs
+C:\Users\Lea\Desktop\PFR_Madera_RIL19-21\maderaAPI\obj\Debug\netcoreapp3.1\maderaAPI.RazorTargetAssemblyInfo.cache
